@@ -1,0 +1,68 @@
+ html, body { 
+     margin: 0;
+     padding: 0; */
+ }
+
+ header {
+     background-color: teal;
+     height: 300px;
+     color: aqua;
+     text-align: center;
+     margin: 0;
+     padding: 0;
+ }
+
+ .buttons {
+
+    margin: 10px 200px;
+ }
+
+ .Pink-Block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: magenta;
+    float: left;
+ }
+
+ .Blue-Block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: lightskyblue;
+    float: left;
+ }
+
+ .Green-Block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: green;
+    float: left;
+ }
+
+ .Yellow-Block {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: rgb(213, 226, 31);
+    float: left;
+ }
+
+
+ #header-title {
+     padding:25px;
+     font-size: 40px;
+     font-family: font-family: 'Unlock', cursive;
+ }
+
+ .colored-blocks {
+    float: left;
+     margin: 20px;
+ }
+
+ .count-list {
+    margin: 25px 25px;
+    float: left;
+    
+ }
